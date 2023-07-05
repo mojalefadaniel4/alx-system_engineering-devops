@@ -1,2 +1,2 @@
 #!/bin/bash
-cp *.htmi ../
+-rw-r--r-- 1 /tmp/file_0.html
